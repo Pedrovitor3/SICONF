@@ -7,9 +7,9 @@ O SICONF é um projeto que foi construído visando automatizar um trabalho que e
 O sistema consiste em trazer dados de outra aplicação e preencher apenas os dados que precisam ser alterados.
 
 ## Layout web
-![modalBusca](https://github.com/Pedrovitor3/siconf/assets/125207408/e0dc03d3-622f-4671-966b-787e2fb1681e)
 ![pagFrequencia](https://github.com/Pedrovitor3/siconf/assets/125207408/0e98168e-e1ee-4aa0-93f8-9db6d64d53a7)
 ![pagTabela](https://github.com/Pedrovitor3/siconf/assets/125207408/8bede2f0-0a5b-4be4-877d-873cb25fc2a7)
+![modalBusca](https://github.com/Pedrovitor3/siconf/assets/125207408/e0dc03d3-622f-4671-966b-787e2fb1681e)
 
 
 ## Modelo conceitual
